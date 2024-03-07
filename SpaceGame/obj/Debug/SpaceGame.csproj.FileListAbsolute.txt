@@ -1,0 +1,24 @@
+C:\Users\mariu\Desktop\olx\gra w statki\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.AssemblyReference.cache
+C:\Users\mariu\Desktop\olx\gra w statki\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\mariu\Desktop\olx\gra w statki\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Form1.resources
+C:\Users\mariu\Desktop\olx\gra w statki\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Properties.Resources.resources
+C:\Users\mariu\Desktop\olx\gra w statki\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.GenerateResource.cache
+C:\Users\mariu\Desktop\olx\gra w statki\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Desktop\olx\gra w statki\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\mariu\Desktop\olx\gra w statki\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\mariu\Desktop\olx\gra w statki\SpaceGame\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\mariu\Desktop\olx\gra w statki\SpaceGame\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\mariu\Desktop\olx\gra w statki\SpaceGame\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\mariu\Desktop\olx\gra w statki\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Form2.resources
+C:\Users\mdobr\Desktop\EWA\KCK\Projekt_część2\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe.config
+C:\Users\mdobr\Desktop\EWA\KCK\Projekt_część2\SpaceGame\SpaceGame\bin\Debug\SpaceGame.exe
+C:\Users\mdobr\Desktop\EWA\KCK\Projekt_część2\SpaceGame\SpaceGame\bin\Debug\SpaceGame.pdb
+C:\Users\mdobr\Desktop\EWA\KCK\Projekt_część2\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.AssemblyReference.cache
+C:\Users\mdobr\Desktop\EWA\KCK\Projekt_część2\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Form1.resources
+C:\Users\mdobr\Desktop\EWA\KCK\Projekt_część2\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Form2.resources
+C:\Users\mdobr\Desktop\EWA\KCK\Projekt_część2\SpaceGame\SpaceGame\obj\Debug\SpaceGame.Properties.Resources.resources
+C:\Users\mdobr\Desktop\EWA\KCK\Projekt_część2\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.GenerateResource.cache
+C:\Users\mdobr\Desktop\EWA\KCK\Projekt_część2\SpaceGame\SpaceGame\obj\Debug\SpaceGame.csproj.CoreCompileInputs.cache
+C:\Users\mdobr\Desktop\EWA\KCK\Projekt_część2\SpaceGame\SpaceGame\obj\Debug\SpaceGame.exe
+C:\Users\mdobr\Desktop\EWA\KCK\Projekt_część2\SpaceGame\SpaceGame\obj\Debug\SpaceGame.pdb
+C:\Users\mdobr\Desktop\EWA\KCK\Projekt_część2\SpaceGame\SpaceGame\obj\Debug\SpaceGame.InstructionsForm.resources
